@@ -1,2 +1,1 @@
-# JavaConcepts
-This repo to learn JAVA concepts
+GitHub Demo to my team.
